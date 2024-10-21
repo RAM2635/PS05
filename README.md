@@ -40,7 +40,7 @@ scrapy runspider lightingspider.py -o lightings.json
 
 Эта команда выпол
 
-Нейрокот, [21.10.2024 16:13]
+
 нит паука и сохранит извлеченные данные в `lightings.json`.
 
 ## Заметки
